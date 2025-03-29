@@ -10,7 +10,7 @@ dataset_size = 100
 
 
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 if not cap.isOpened():
     print("Failed to open camera")
 
