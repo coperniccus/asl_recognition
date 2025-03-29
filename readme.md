@@ -1,6 +1,6 @@
-# Helping Hand: A Python Hand Gesture Recognition System 
+# Helping Hand: A Hand Gesture Recognition System using Python 
 
-This project focuses on recognizing American Sign Language (ASL) alphabet gestures using machine learning and computer vision techniques. This project was originally developed in 2024 as part of our Introduction to Data Science course, but was only published to GitHub in 2025. The repository serves as a backup and reference for future use.
+This project focuses on recognizing American Sign Language (ASL) alphabet gestures using machine learning and computer vision techniques. This project was originally completed in 2024 as part of our Introduction to Data Science course, but was only published to GitHub in 2025. The repository serves as a backup and reference for future use.
 
 
 ## Features
@@ -37,8 +37,8 @@ This project focuses on recognizing American Sign Language (ASL) alphabet gestur
     ```
 2. Follow the on-screen instructions to start recognizing ASL gestures.
 
-## Contributors
-Hiro Andrei Imamura
-Zynnon Kyle Depoo
-Agatha Wendie Floreta
-Nicole Bermundo
+## Contributors and Acknowledgement
+- Hiro Andrei Imamura
+- Zynnon Kyle Depoo
+- Agatha Wendie Floreta
+- Nicole Bermundo
